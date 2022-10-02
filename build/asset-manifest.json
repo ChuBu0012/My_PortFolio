@@ -1,15 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.0ec2a299.css",
-    "main.js": "/static/js/main.36f8ec1e.js",
+    "main.js": "/static/js/main.38ae2fe9.js",
     "static/css/371.85cde1c8.chunk.css": "/static/css/371.85cde1c8.chunk.css",
-    "static/js/371.899fb063.chunk.js": "/static/js/371.899fb063.chunk.js",
+    "static/js/371.1f04d4b7.chunk.js": "/static/js/371.1f04d4b7.chunk.js",
     "static/css/342.31d6cfe0.chunk.css": "/static/css/342.31d6cfe0.chunk.css",
     "static/js/342.0638f88d.chunk.js": "/static/js/342.0638f88d.chunk.js",
     "static/js/608.a29efeab.chunk.js": "/static/js/608.a29efeab.chunk.js",
     "static/js/787.f23336e7.chunk.js": "/static/js/787.f23336e7.chunk.js",
     "static/js/282.46f8296e.chunk.js": "/static/js/282.46f8296e.chunk.js",
     "static/js/6.497e1add.chunk.js": "/static/js/6.497e1add.chunk.js",
+    "static/js/84.c1bbe943.chunk.js": "/static/js/84.c1bbe943.chunk.js",
     "static/media/PreWeather.gif": "/static/media/PreWeather.e5c46af40c848757e339.gif",
     "static/media/ShoppingCart.gif": "/static/media/ShoppingCart.8662b85a6b9fe3cf6852.gif",
     "static/media/เกียรติบัตรผ่านการอบรมของ นายพรพุทธ สุดอุปถัมภ์.png": "/static/media/เกียรติบัตรผ่านการอบรมของ นายพรพุทธ สุดอุปถัมภ์.f35202eeca1e46fa7f75.png",
@@ -52,17 +53,18 @@
     "static/media/3Dprinter.png": "/static/media/3Dprinter.551b38d35846a14bf115.png",
     "index.html": "/index.html",
     "main.0ec2a299.css.map": "/static/css/main.0ec2a299.css.map",
-    "main.36f8ec1e.js.map": "/static/js/main.36f8ec1e.js.map",
+    "main.38ae2fe9.js.map": "/static/js/main.38ae2fe9.js.map",
     "371.85cde1c8.chunk.css.map": "/static/css/371.85cde1c8.chunk.css.map",
-    "371.899fb063.chunk.js.map": "/static/js/371.899fb063.chunk.js.map",
+    "371.1f04d4b7.chunk.js.map": "/static/js/371.1f04d4b7.chunk.js.map",
     "342.0638f88d.chunk.js.map": "/static/js/342.0638f88d.chunk.js.map",
     "608.a29efeab.chunk.js.map": "/static/js/608.a29efeab.chunk.js.map",
     "787.f23336e7.chunk.js.map": "/static/js/787.f23336e7.chunk.js.map",
     "282.46f8296e.chunk.js.map": "/static/js/282.46f8296e.chunk.js.map",
-    "6.497e1add.chunk.js.map": "/static/js/6.497e1add.chunk.js.map"
+    "6.497e1add.chunk.js.map": "/static/js/6.497e1add.chunk.js.map",
+    "84.c1bbe943.chunk.js.map": "/static/js/84.c1bbe943.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0ec2a299.css",
-    "static/js/main.36f8ec1e.js"
+    "static/js/main.38ae2fe9.js"
   ]
 }

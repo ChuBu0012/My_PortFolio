@@ -4,7 +4,7 @@ import Todolist from "./showwork/Todolist App.png";
 import ShoppingCart from "./showwork/ShoppingCart.gif";
 import Happy from "./showwork/Happy Birthday.png";
 import Kidbight from './showwork/Kidbight.png';
-
+import parse from 'html-react-parser'
 import React, { lazy, Suspense } from "react";
 import "./Workings.css";
 import WateringCactus from "./work/work";
@@ -46,8 +46,8 @@ function Workings({ mdleft }) {
       name: "ShoppingCart",
       website: "https://chubu0012.github.io/ShoppingCart/",
       src: ShoppingCart,
-      des: "เว็บไซต์จำลองร้านขายของออนไลน์",
-      tool: "html css js", shadow:"des"
+      des: parse("เว็บไซต์จำลองร้านขายของออนไลน์<br/>!ไม่รองรับทุกอุปกรณ์"),
+      tool: "html css js", shadow:""
     },
     {
       id: 5,
