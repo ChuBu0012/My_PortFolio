@@ -1,0 +1,48 @@
+.des {
+  -webkit-box-reflect: below -12px linear-gradient(transparent, rgba(0, 0, 0, 0.4));
+}
+
+@media (min-width: 0px) and (max-width:321px) {
+  .kidbight {
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 1rem;
+  }
+  
+}
+
+@media (min-width: 321px) and (max-width:376px){
+  .kidbight{
+    margin-left: 8px;
+    margin-right: 8px;
+    font-size: 0.9rem;
+  }
+}
+
+@media (min-width: 376px) and (max-width:426px){
+  .kidbight{
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 1rem;
+  }
+}
+
+@media (min-width: 426px) and (max-width:769px){
+  .KbIde {
+    font-size: 1.4rem;
+  }
+  .kidbight{
+    margin-left: 160px;
+    margin-right: 160px;
+    font-size: 1.125rem;
+  }
+}
+
+@media (min-width: 1024px) and (max-width: 1440px){
+  .kidbight{
+    width: 500px;
+    margin-left:auto;
+    margin-right:auto;
+    font-size: 1rem;
+  }
+}

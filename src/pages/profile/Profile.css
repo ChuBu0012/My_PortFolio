@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Prompt&display=swap');
+
+.Prompt{
+    font-family: Prompt;
+  }
+
+  @media screen and (min-height: 0px) and (max-height: 569px) {
+    .profile {
+      height: 6%;
+    }
+  }
+  

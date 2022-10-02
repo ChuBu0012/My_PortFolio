@@ -1,0 +1,5 @@
+@media (min-height:0px) and (min-width:641px) and ((max-width:767px)) {
+    .nav-sidebar{
+        display: none
+    }
+}
