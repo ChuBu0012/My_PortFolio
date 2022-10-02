@@ -8,7 +8,7 @@ Html Css JavaScript TailwindCss ReactJs
 # Visit Website
 # https://pornput-spt.netlify.app/
 
-! เนื่องจากรูปภาพมีขนาดใหญ่ อาจทำให้โหลดช้า และบัค
+! เนื่องจากรูปภาพมีขนาดใหญ่ อาจทำให้โหลดช้า
 ---
 รับชมผลงานทั้งหมดของผมได้ที่นี่!
 ---
