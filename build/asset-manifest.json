@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.0ec2a299.css",
-    "main.js": "/static/js/main.38ae2fe9.js",
-    "static/css/371.85cde1c8.chunk.css": "/static/css/371.85cde1c8.chunk.css",
-    "static/js/371.1f04d4b7.chunk.js": "/static/js/371.1f04d4b7.chunk.js",
+    "main.css": "/static/css/main.ff5c7104.css",
+    "main.js": "/static/js/main.f3246a34.js",
+    "static/css/729.a51cac22.chunk.css": "/static/css/729.a51cac22.chunk.css",
+    "static/js/729.72edcaa6.chunk.js": "/static/js/729.72edcaa6.chunk.js",
     "static/css/342.31d6cfe0.chunk.css": "/static/css/342.31d6cfe0.chunk.css",
     "static/js/342.0638f88d.chunk.js": "/static/js/342.0638f88d.chunk.js",
     "static/js/608.a29efeab.chunk.js": "/static/js/608.a29efeab.chunk.js",
@@ -12,7 +12,6 @@
     "static/js/6.497e1add.chunk.js": "/static/js/6.497e1add.chunk.js",
     "static/js/84.c1bbe943.chunk.js": "/static/js/84.c1bbe943.chunk.js",
     "static/media/PreWeather.gif": "/static/media/PreWeather.e5c46af40c848757e339.gif",
-    "static/media/ShoppingCart.gif": "/static/media/ShoppingCart.8662b85a6b9fe3cf6852.gif",
     "static/media/เกียรติบัตรผ่านการอบรมของ นายพรพุทธ สุดอุปถัมภ์.png": "/static/media/เกียรติบัตรผ่านการอบรมของ นายพรพุทธ สุดอุปถัมภ์.f35202eeca1e46fa7f75.png",
     "static/media/profile.png": "/static/media/profile.a91957c18c45679255f1.png",
     "static/media/Poster SwimCap for blind (1).jpg": "/static/media/Poster SwimCap for blind (1).9988d0dbf53eb1f2b31b.jpg",
@@ -47,15 +46,16 @@
     "static/media/3D.png": "/static/media/3D.7732685fce78b79ba935.png",
     "static/media/arun.jpg": "/static/media/arun.7e2a97a310db1321ce1f.jpg",
     "static/media/finalscb.jpg": "/static/media/finalscb.81ba0ed3beb54027d6f2.jpg",
+    "static/media/BlogBlog.png": "/static/media/BlogBlog.b9caaa0b82387939dc59.png",
     "static/media/รวมopenhouserov.jpg": "/static/media/รวมopenhouserov.8648634ee0ec701eb7a7.jpg",
     "static/media/Todolist App.png": "/static/media/Todolist App.de142ffcf44366fd7826.png",
     "static/media/open house rov.jpg": "/static/media/open house rov.46480057a55d1d8a372d.jpg",
     "static/media/3Dprinter.png": "/static/media/3Dprinter.551b38d35846a14bf115.png",
     "index.html": "/index.html",
-    "main.0ec2a299.css.map": "/static/css/main.0ec2a299.css.map",
-    "main.38ae2fe9.js.map": "/static/js/main.38ae2fe9.js.map",
-    "371.85cde1c8.chunk.css.map": "/static/css/371.85cde1c8.chunk.css.map",
-    "371.1f04d4b7.chunk.js.map": "/static/js/371.1f04d4b7.chunk.js.map",
+    "main.ff5c7104.css.map": "/static/css/main.ff5c7104.css.map",
+    "main.f3246a34.js.map": "/static/js/main.f3246a34.js.map",
+    "729.a51cac22.chunk.css.map": "/static/css/729.a51cac22.chunk.css.map",
+    "729.72edcaa6.chunk.js.map": "/static/js/729.72edcaa6.chunk.js.map",
     "342.0638f88d.chunk.js.map": "/static/js/342.0638f88d.chunk.js.map",
     "608.a29efeab.chunk.js.map": "/static/js/608.a29efeab.chunk.js.map",
     "787.f23336e7.chunk.js.map": "/static/js/787.f23336e7.chunk.js.map",
@@ -64,7 +64,7 @@
     "84.c1bbe943.chunk.js.map": "/static/js/84.c1bbe943.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0ec2a299.css",
-    "static/js/main.38ae2fe9.js"
+    "static/css/main.ff5c7104.css",
+    "static/js/main.f3246a34.js"
   ]
 }

@@ -27,7 +27,7 @@ function about({mdleft}) {
           </li>
         </ul>
         <Typing/>
-        <i className="fa-sharp fa-solid fa-arrow-down mt-10 animate-bounce md:hidden"></i>
+        <i className="fa-sharp fa-solid fa-arrow-down mt-10 animate-bounce "></i>
       </div>
     </div>
   );

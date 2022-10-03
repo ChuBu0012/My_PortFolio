@@ -1,7 +1,7 @@
 import Cactus from "./showwork/Cactus.png";
 import PreWeather from "./showwork/PreWeather.gif";
 import Todolist from "./showwork/Todolist App.png";
-import ShoppingCart from "./showwork/ShoppingCart.gif";
+import BlogBlog from "./showwork/BlogBlog.png";
 import Happy from "./showwork/Happy Birthday.png";
 import Kidbight from './showwork/Kidbight.png';
 import parse from 'html-react-parser'
@@ -34,20 +34,20 @@ function Workings({ mdleft }) {
        shadow:"des"
     },
     {
+      id: 4,
+      name: "Blog! Blog!",
+      website: "https://blog-blog0012.netlify.app/",
+      src: BlogBlog,
+      des: parse("เว็บบล็อก"),
+      tool: parse("html css js TailwindCss ReactJs<br/>NodeJs ExpressJs MongoDB "), shadow:"des"
+    },
+    {
       id: 3,
       name: "Todolist App",
       website: "https://todolist-app-0012.web.app/",
       src: Todolist,
-      des: "เว็บไซต์คำนวณรายรับ-จ่าย",
+      des: "เว็บไซต์คำนวณรายรับ-จ่าย และวางแผนการใช้ชีวิต",
       tool: "html css js Tailwindcss ReactJs", shadow:"des"
-    },
-    {
-      id: 4,
-      name: "ShoppingCart",
-      website: "https://chubu0012.github.io/ShoppingCart/",
-      src: ShoppingCart,
-      des: parse("เว็บไซต์จำลองร้านขายของออนไลน์<br/>!ไม่รองรับทุกอุปกรณ์"),
-      tool: "html css js", shadow:""
     },
     {
       id: 5,
