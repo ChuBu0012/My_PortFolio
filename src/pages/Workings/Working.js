@@ -9,6 +9,7 @@ import React, { lazy, Suspense } from "react";
 import "./Workings.css";
 import WateringCactus from "./work/work";
 import Design from './work/Design';
+import Whatstudy from './showwork/whatstudy.png';
 const Scg = lazy(()=>import("./work/Scg"))
 
 
@@ -38,8 +39,16 @@ function Workings({ mdleft }) {
       name: "Blog! Blog!",
       website: "https://blog-blog0012.netlify.app/",
       src: BlogBlog,
-      des: parse("เว็บบล็อก"),
-      tool: parse("html css js TailwindCss ReactJs<br/>NodeJs ExpressJs MongoDB "), shadow:"des"
+      des: parse("เว็บ Blog"),
+      tool: parse("html css js TailwindCss ReactJs<br/>NodeJs ExpressJs MongoDB"), shadow:"des"
+    },
+    {
+      id: 7,
+      name: "WhatStudy-BPK",
+      website: "https://whatstudy-bpk.netlify.app/",
+      src: Whatstudy,
+      des: parse("เว็บไซต์ติดตามผลการศึกษาต่อ<br/>ของโรงเรียนบางปะกอกวิทยาคม"),
+      tool: parse("html css js TailwindCss ReactJs<br/>NodeJs ExpressJs MongoDB")
     },
     {
       id: 3,
@@ -68,7 +77,7 @@ function Workings({ mdleft }) {
   ];
   return (
     <Suspense fallback={<></>}>
-    <div className=" flex justify-center items-center h-[65%] md:h-[53%] lg:h-[60%] xl:h-[65%] 2xl:h-[51%] mt-12 workings">
+    <div className=" flex justify-center items-center h-[65%] md:h-[55%] lg:h-[57%] xl:h-[55%] 2xl:h-[55%] mt-12 workings">
       <div
         className={`workings-box flex flex-col items-center relative ${mdleft}`}
       >
