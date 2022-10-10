@@ -7,7 +7,7 @@ function Folksong(props) {
       </h2>
 
       <div className="mt-5">
-        <img src={folksong} className="rounded w-60 lg:w-80 md:w-72 xl:w-80 m-auto" alt="" />
+        <img src={folksong} loading="lazy" className="rounded w-60 lg:w-80 md:w-72 xl:w-80 m-auto" alt="" />
         <p className="text-center font-Prompt m-auto mt-3 w-[17.5rem] lg:w-full text-orange-50">
           รับหน้าที่เป็นผู้เล่นคาฮอง<br/>ในการดนตรี Folksong
         </p>

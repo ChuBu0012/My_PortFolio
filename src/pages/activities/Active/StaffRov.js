@@ -13,6 +13,7 @@ function StaffRov(props) {
           src={Openhouse}
           className="rounded w-64 lg:w-80 md:w-80 xl:w-96 mt-7 m-auto"
           alt=""
+          loading="lazy"
         />
       </div>
 
@@ -21,6 +22,7 @@ function StaffRov(props) {
           src={PhotoOH}
           className="rounded w-60 lg:w-80 md:w-72 xl:w-80 m-auto"
           alt=""
+          loading="lazy"
         />
         <p className="text-center font-Prompt m-auto mt-3 w-[17.5rem] lg:w-full text-orange-50">
           รับหน้าที่ Staff Rov tournament Bpk open house 2022

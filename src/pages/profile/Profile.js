@@ -58,6 +58,7 @@ function Profile({ mdleft }) {
             src={ProFile}
             className="lg:h-96 md:h-60 h-48 md:mt-0 mt-7 informimg hover:p-5"
             alt=""
+            loading="lazy"
           />
         </div>
       </div>

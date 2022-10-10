@@ -13,6 +13,7 @@ function WateringCactus({ name, website, src, des, tool, size, shadow }) {
           className={`mt-5 border-b-4  border-white  rounded-3xl md:mt-8 lg:mt-12 w-96 px-5 md:w-[540px] lg:w-[650px] xl:w-[900px]`}
           style={size}
           alt=""
+          loading="lazy"
         />
       </a>
       <a href={website} target={"_blank"} rel="noreferrer">
