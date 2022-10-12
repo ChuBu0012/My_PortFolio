@@ -12,7 +12,11 @@ function App(props) {
   function mdleft(mdleft){
     setleft(0)
   }
-
+  window.onload = () => {
+    setTimeout(() => {
+      window.location.reload(false);
+    }, 5000);
+  };
   return (
       <div className="w-full h-full flex flex-row scroll-smooth">
         {/* <Sidebar mdleft={mdleft}/> */}
