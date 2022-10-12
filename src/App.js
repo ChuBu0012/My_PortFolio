@@ -16,7 +16,7 @@ function App(props) {
       window.location = window.location + "#about";
       setTimeout(() => {
         window.location.reload();
-      }, 3000);
+      }, 1000);
     }
   };
 
