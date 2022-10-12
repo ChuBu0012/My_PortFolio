@@ -11,9 +11,12 @@ function App(props) {
     setleft(0);
   }
 
-  setTimeout(() => {
-    window.location.reload(false);
-  }, 5000);
+  window.onload = function () {
+    if (!window.location.hash) {
+      window.location = window.location + "#loaded";
+      window.location.reload();
+    }
+  };
 
   return (
     <div className="w-full h-full flex flex-row scroll-smooth">
