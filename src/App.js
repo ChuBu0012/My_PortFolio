@@ -13,10 +13,12 @@ function App(props) {
 
   window.onload = function () {
     if (!window.location.hash) {
-      window.location = window.location + "#about";
+      window.location = window.location + "#loading";
       setTimeout(() => {
         window.location.reload();
-      }, 3000);
+      }, 3000)
+    }else{
+      window.location = "#about";
     }
   };
 
