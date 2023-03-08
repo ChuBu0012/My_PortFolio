@@ -17,11 +17,11 @@ function about({ mdleft }) {
         <ul className="flex text-center justify-center items-center mt-2 mb-4 text-2xl lg:text-3xl font-semibold md:text-2xl md:mb-8 lg:mt-6">
           <li className=" mr-2 lg:mr-4">
             <a
-              href="https://github.com/ChuBu0012"
+              href="https://www.facebook.com/Moadmoomost123"
               target="_blank"
               rel="noreferrer"
             >
-              <i className="fa-brands fa-github ih" />
+              <i className="fa-brands fa-facebook ih" />
             </a>
           </li>
           <li className=" mx-2 lg:mx-4">
@@ -31,11 +31,6 @@ function about({ mdleft }) {
               rel="noreferrer"
             >
               <i className="fa-brands fa-instagram ih" />
-            </a>
-          </li>
-          <li className=" ml-2 lg:ml-4">
-            <a href="tel:0952968102" target="_blank" rel="noreferrer">
-              <i className="fa-solid fa-phone"></i>
             </a>
           </li>
         </ul>
